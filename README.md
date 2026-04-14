@@ -1,16 +1,15 @@
-## Hi there 👋
+Bienvenue dans Elo-Labs 👋  
+Un petit laboratoire de données où l’expérimentation rencontre les enjeux du monde réel.
 
-<!--
-**elo-labs/elo-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+L’exploration de la donnée prend forme à travers des projets variés, où dashboards et machine learning permettent de faire émerger les structures et les histoires cachées dans les données.
 
-Here are some ideas to get you started:
+✨ Chaque jeu de données renferme un monde qui ne demande qu'à être exploré.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+Welcome to Elo-Labs 👋  
+A small data lab where experimentation meets real-world challenges.
+
+Data exploration takes shape through diverse projects, where dashboards and machine learning help uncover the structures and stories hidden within datasets.
+
+✨ Every dataset holds a world waiting to be explored.
